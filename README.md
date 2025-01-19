@@ -38,18 +38,18 @@ URLSHORTENER/
 
 ## Setup Instructions
 
-# Step 1: Clone the repository
+### Step 1: Clone the repository
 git clone https://github.com/prathamshirol/url-shortener.git
 
-# Step 2: Navigate to the project directory
+### Step 2: Navigate to the project directory
 cd url-shortener
 
-# Step 3: Install dependencies
+### Step 3: Install dependencies
 npm install
 
-# Step 4: Start MongoDB (if running locally)
+### Step 4: Start MongoDB (if running locally)
 mongod
 
-# Step 5: Run the project
+### Step 5: Run the project
 node index.js
 
