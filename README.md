@@ -34,3 +34,22 @@ URLSHORTENER/
 ├── package.json       # Dependencies and scripts
 ├── package-lock.json  # Dependency tree lock file
 └── README.md          # Project documentation
+```
+
+## Setup Instructions
+
+# Step 1: Clone the repository
+git clone https://github.com/prathamshirol/url-shortener.git
+
+# Step 2: Navigate to the project directory
+cd url-shortener
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Start MongoDB (if running locally)
+mongod
+
+# Step 5: Run the project
+node index.js
+
